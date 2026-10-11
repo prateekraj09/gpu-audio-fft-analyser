@@ -48,7 +48,7 @@ cuda-audio-fft-analyzer
 
 ### 1. Clone the Repository
 ##bash
-git clone https://github.com/Yatin23614/gpu-audio-fft-analyzer.git
+git clone (https://github.com/prateekraj09/gpu-audio-fft-analyser)
 cd cuda-audio-fft-analyzer
 
 2. Make the Script Executable
