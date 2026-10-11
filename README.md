@@ -116,10 +116,10 @@ Permission denied on .sh script	Run chmod +x run_analysis.sh.
 
 ## Author
 
-Yatin Singh
+Prateek Raj
 B.Tech, IIIT Delhi
- Contact: yatin23614@iiitd.ac.in]
- GitHub: Yatin23614
+ Contact: prateek23390@iiitd.ac.in]
+ GitHub: prateekraj09
 
 ## License
 
